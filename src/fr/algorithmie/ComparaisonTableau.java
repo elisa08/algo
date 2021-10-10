@@ -18,7 +18,7 @@ public class ComparaisonTableau {
 				i++;
 				nombreCommun= i;
 				
-//				System.out.println(nombreCommun);
+				System.out.println(nombreCommun);
 				
 			}
 			
