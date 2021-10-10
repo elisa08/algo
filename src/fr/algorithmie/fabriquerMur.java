@@ -24,7 +24,7 @@ public class fabriquerMur {
 
 		if(!fabriquerMur(nbSmall,  nbBig, longueur) == b) {
 			
-			System.out.println(nbSmall+" "+nbBig+" "+longueur+" ne permettent pas de fabriquer un mur.");
+			System.out.println(nbSmall+" "+nbBig+" "+" ne permettent pas de fabriquer un mur de longueur "+longueur);
 			
 		}
 		
